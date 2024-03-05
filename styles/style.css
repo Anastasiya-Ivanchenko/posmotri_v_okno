@@ -218,6 +218,7 @@ ol {
 }
 
 .button {
+  font-family: inherit;
   cursor: pointer;
   background-color: transparent;
   color: #fff;
